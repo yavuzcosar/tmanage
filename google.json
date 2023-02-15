@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "toltekcampus",
+  "private_key_id": "862bbdeaa446423bcff512eb352f90bba18a4fb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUgVwLFdCoghA3\nbfTfTFDTyDsTKDdeuIHSn70B2ttcf/QqlPhcGP95OqGwVJA86Kfyjb64bCfTTrgr\n4l2v00KLg7FnvIaQv5rVJB9RoJEc4f5u/XDDzdfH4YcMMpkMduEKWWOS96h+JyLi\nbiAjOALk14Y2fj2rZRXJoKjjV9ehiWRmrhOs9cEc2zQrcR/qlQsE/44w+ipVhH9w\njO1L/UdxrlPKX9gOoSiw3mI9cBP7ABGP3/INhoO9iGF+L2L7qfri2MSRGEhE0usc\nDdgwVMboh+vJLAqrprNjPxx7lE5WsXgsO7P6q1c4ZrlrDk3PdkNy3F81YCZYn+Op\nAayn/zpDAgMBAAECggEAaSeyElIzNI9X0vX4TF8JSCM3CF3IOHj41O7yqm5QSk+O\n1VtuIrTEBos643SVA27lXKNDkyMB+hBkFmMnlQ/nR/5c1UZ3GD2YMoxzawMXi8FR\nFD8Zg+riMiipmSGYlpBk/6gIG/utRu+61W1FPehDllYINgL2JVAaHfIAYK9hJq9c\nh23tfuuRYWqREbDZo8p9+mwo1sDu3h/3Na/UjNFIpAIojBNxlUgAvZ1jaacTC7C5\nFIXz3dSLtfdSVT+opBROZCUbpvcLdFxgTB4EMazP+j9YomXSK2k0MkUE/ReGgaG0\n6S1HQRCeggz3N+Ze3+y3e3jfjBCrOMasW+XG6OZpUQKBgQD804k9UPSbjG4Xua3V\n56xxNbPUJonmuQngxajlEWLZT9EFCoDD+yOmvM4mQDMTFvw+KkxUMBzrR4i+O0HB\nHwm3rzj5Zp1nJ0UuXxtEQ4f56t72YnVNH77deQn2yM7YJyoz2isZtySd8dycLrQh\nGhW7myideq42S6bICrjR0SkKhQKBgQDXLEA40k9rp4pAbEDnDE0jwbujB9njR/3a\nia5BwTY2lJanEJxMatDuMqlGDbuVv5AIFjf/Jr5pWI/Xc5ottnGK5AabD025COeM\nlMvtPUNCfdC4osRogN/157wvxSTzIyoxdoBwuSWRlGC1XFNtV3VX/PVtGVdue/Jb\nheQrWhYgJwKBgQDojsAPebb2ma7u/enL96WkIQzAGY8BfrV6XvajdmGhmQygAXA+\nVXUOu184yhbw+VSe7hN14SfIt+0tZp5uQNmUb4YNyvkAWJwHMo6HNUMPfJ8IrbpO\nbeQIHn0u1rmFFEl6lrTMm6z/5+jQdRlV1YOmJOuwJ5e189J+8XXd8fI5bQKBgHU7\nHLpYiwDCRSaYVDwNjbGfiZVnX6TewkXgoVod5GWUSwg2mpFf2PkODP+n173coqJl\nSJjxCOjoYWYnC6dAMVhUp+yvR886NL15DCnzKMP/PEp8E7pEDMEzQmpcZKc7T2+n\neo7vsLJCPvZQmPuHnN0VarnIBsShLwgCSK/94vQdAoGBAKEyJWMTq1VODy65qpB1\nz1Z6xoEmgyq6Q7DWeNNWCmweBgSJBA3XXW9P6aiBlnPnDYGC3aWDN7u9mEzP2r3P\n+gXGBcN70J5idxM4OPmYpiO7WsXmApKdQvJpVeNGJ7ZDKVppuuGnVd3hVwmo3c3r\n2qTzBaJiLxKpjxGg4iMj08WS\n-----END PRIVATE KEY-----\n",
+  "client_email": "tcampus-analytics@toltekcampus.iam.gserviceaccount.com",
+  "client_id": "109647303291611771637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tcampus-analytics%40toltekcampus.iam.gserviceaccount.com"
+}
